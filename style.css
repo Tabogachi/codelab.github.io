@@ -172,4 +172,29 @@ body {
 
 a {
     text-decoration:none;
+    color:black;
+}
+
+.link1 {
+    text-decoration: none;
+    margin-left:590px;
+    margin-top: 7px;
+    display: block;
+    font-size: 23px;
+    color:black;
+    background-color:white;
+    position:absolute;
+    padding-left:16px;
+    padding-right:16px;
+    padding-top:16px;
+    padding-bottom:16px;
+    border-radius:13px;
+}
+
+.header2 {
+    font-size:60px;
+    padding:25px;
+    color:white;
+    margin-top: 200px;
+    text-align:center;
 }

@@ -185,3 +185,7 @@ body {
     margin-left:110px;
     transition:0.25s;
 }
+
+a {
+    text-decoration:none;
+}

@@ -1,0 +1,119 @@
+body {
+    background-color:#5d51ff;
+}
+
+.welcome{
+    font-size:200px;
+    margin-left:200px;
+
+}
+
+.i{
+    font-size:200px;
+}
+
+.title{
+    font-family: 'Roboto', sans-serif;
+    text-align:center;
+    font-size:60px;
+}
+
+.home{
+   font-family: 'Roboto', sans-serif;
+   display:inline;
+   padding:50px;
+   margin-left:290px;
+   font-size:25px;
+}
+
+.news{
+    font-family: 'Roboto', sans-serif;
+    display:inline;
+    padding:50px;
+    font-size:25px;
+}
+
+.about{
+    font-family: 'Roboto', sans-serif;
+    display:inline;
+    padding:50px;
+    font-size:25px;
+}
+
+.contact{
+    font-family: 'Roboto', sans-serif;
+    display:inline;
+    padding:50px;
+    font-size:25px;
+}
+
+.home:hover{
+    color:white;
+    transition:0.25s;
+}
+ 
+ .news:hover{
+    color:white;
+    transition:0.25s;
+ }
+ 
+ .about:hover{
+    color:white;
+    transition:0.25s;
+ }
+ 
+ .contact:hover{
+    color:white;
+    transition:0.25s;
+ }
+
+ .newsbox1{
+     border: 5px solid black;
+     border-radius:20px;
+     margin-left:375px;
+     -webkit-transition: all 1s ease; 
+     -moz-transition: all 1s ease; 
+     -o-transition: all 1s ease; 
+     -ms-transition: all 1s ease; 
+     transition: all 0.25s ease; 
+ }
+
+ .newsbox1:hover{
+     border-color:white;
+     transition:0.25s;
+}
+
+.newsbox2{
+    border: 5px solid black;
+    border-radius:20px;
+    margin-left:370px;
+    -webkit-transition: all 1s ease; 
+    -moz-transition: all 1s ease; 
+    -o-transition: all 1s ease; 
+    -ms-transition: all 1s ease; 
+    transition: all 0.25s ease; 
+}
+
+.newsbox2:hover{
+    border-color:white;
+    transition:0.25s;
+}
+
+.newsbox3{
+    border: 5px solid black;
+    border-radius:20px;
+    -webkit-transition: all 1s ease; 
+    -moz-transition: all 1s ease; 
+    -o-transition: all 1s ease; 
+    -ms-transition: all 1s ease; 
+    transition: all 0.25s ease; 
+}
+
+.newsbox3:hover{
+    border-color:white;
+    transition:0.25s;
+}
+
+.copyright{
+    font-family: 'Roboto', sans-serif;
+}

@@ -117,3 +117,20 @@ body {
 .copyright{
     font-family: 'Roboto', sans-serif;
 }
+
+@media only screen and (max-width:800px) {
+    /* For tablets: */
+    .main {
+      width: 80%;
+      padding: 0;
+    }
+    .right {
+      width: 100%;
+    }
+  }
+  @media only screen and (max-width:500px) {
+    /* For mobile phones: */
+    .welcome, .i, .title, .home, .news, .about, .contact, .newsbox1, .newsbox2, .newsbox3 {
+      width: 100%;
+    }
+  }

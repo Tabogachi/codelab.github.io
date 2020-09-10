@@ -134,3 +134,54 @@ body {
       width: 100%;
     }
   }
+
+  .ytlogo{
+    color:white;
+    margin-left:200px;
+    display:inline-block;
+}
+
+.ytlogo:hover{
+    color:#c4302b;
+    transition:0.25s;
+}
+
+.gitlogo{
+    color:white;
+    margin-left:110px;
+}
+
+.gitlogo:hover{
+    color:#211F1F;
+    transition:0.25s;
+}
+
+.discordlogo{
+    color:white;
+    margin-left:120px;
+}
+
+.discordlogo:hover{
+    color:#738ADB;
+    transition:0.25s;
+}
+
+.pinlogo{
+    color:white;
+    margin-left:100px;
+}
+.pinlogo:hover{
+    color:#BD081C;
+    transition:0.25s;
+}
+
+.steamlogo{
+    color:white;
+    margin-left:110px;
+}
+
+.steamlogo:hover{
+    color:#2a475e;
+    margin-left:110px;
+    transition:0.25s;
+}

@@ -4,7 +4,7 @@ body {
 
 .welcome{
     font-size:200px;
-    margin-left:200px;
+    margin-left:50%px;
 
 }
 
@@ -22,7 +22,7 @@ body {
    font-family: 'Roboto', sans-serif;
    display:inline;
    padding:50px;
-   margin-left:290px;
+   margin-left:22%;
    font-size:25px;
 }
 

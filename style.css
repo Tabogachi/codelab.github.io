@@ -15,11 +15,10 @@ body {
 
 .welcome{
     color:#FF5851;
-    margin-left:33%;
+    margin-left:35%;
     margin-top:20%;
     display:block;
     font-family: 'Montserrat', sans-serif;
-    font-size:500%;
 }
 
 .dividk{
@@ -51,5 +50,3 @@ body {
 		margin-top: 40px;
 	}
 }
-
-

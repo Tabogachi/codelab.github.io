@@ -15,7 +15,7 @@ body {
 
 .welcome{
     color:#FF5851;
-    text-align: center /* << That centers the element on the page, and adapts to your screen size */
+    text-align: center; /* << That centers the element on the page, and adapts to your screen size */
     margin-top:20%;
     font-family: 'Montserrat', sans-serif;
     font-size: 600%;
@@ -28,7 +28,7 @@ body {
 
 .header{
     top:250%;
-    text-align: center /* << That centers the element on the page, and adapts to your screen size */
+    text-align: center; /* << That centers the element on the page, and adapts to your screen size */
     display:block;
     color:black;
     font-family: 'Montserrat', sans-serif;

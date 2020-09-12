@@ -15,23 +15,20 @@ body {
 
 .welcome{
     color:#FF5851;
-    margin-left:35%;
+    margin-left:31%;
     margin-top:20%;
-    display:block;
     font-family: 'Montserrat', sans-serif;
-    font: size 10000%;
+    font-size: 600%;
 }
 
 .dividk{
-    padding-left:20%;
-    padding-bottom:30%;
-    padding-top:2%;
+    padding:15%;
     background-color:#FF5851;
 }
 
 .header{
     top:250%;
-    margin-left:4%;
+    margin-left:25%;
     display:block;
     color:black;
     font-family: 'Montserrat', sans-serif;
@@ -42,8 +39,10 @@ body {
 
 .paragraph1{
     font-family: 'Montserrat';
-    margin-right:20%;
+    margin-left:6%;
     font-size:120%;
+    text-align: center;
+ 
 }
 
 @media screen and (max-height: 300px) {

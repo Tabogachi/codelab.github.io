@@ -15,22 +15,35 @@ body {
 
 .welcome{
     color:#FF5851;
-    margin-left:35%;
+    margin-left:33%;
     margin-top:20%;
     display:block;
     font-family: 'Montserrat', sans-serif;
     font-size:500%;
 }
 
-
-
-
-.h1gay{
-    margin-top:20%;
+.dividk{
     padding-left:20%;
-    padding-bottom:40%;
+    padding-bottom:30%;
+    padding-top:2%;
     background-color:#FF5851;
+}
+
+.header{
+    top:250%;
+    margin-left:4%;
+    display:block;
+    color:black;
     font-family: 'Montserrat', sans-serif;
+    overflow:visible;
+    position: relative;
+    font-size:500%;
+}
+
+.paragraph1{
+    font-family: 'Montserrat';
+    margin-right:20%;
+    font-size:120%;
 }
 
 @media screen and (max-height: 300px) {

@@ -1,259 +1,40 @@
 body {
-    background-color:#ff95d3;
+    background-color:#222222;
+    margin:0;
+    padding:0;
+    display:inline;
+}
+
+.logo{
+    float:left;
+    font-family: 'Montserrat', sans-serif;
+    color:#FF5851;
+    margin-left:3%;
+    font-size:250%;
 }
 
 .welcome{
-    font-size:200px;
-    margin-left:50%px;
-
-}
-
-.header {
-    font-family: 'Roboto', sans-serif;
-    font-size:60px;
-    padding-left: 530px;
-    padding-top: 80px;
-    color:black;
+    color:#FF5851;
+    margin-left:35%;
+    margin-top:20%;
     display:block;
-}
-
-.paragraph1{
-    font-family: 'Roboto', sans-serif;
-    font-size: 20px;
-    text-align:center;
-    color:black;
-}
-
-.i{
-    font-size:200px;
-}
-
-.title{
-    font-family: 'Roboto', sans-serif;
-    text-align:center;
-    font-size:60px;
-}
-
-.home{
-   font-family: 'Roboto', sans-serif;
-   display:inline;
-   padding:50px;
-   margin-left:22%;
-   font-size:25px;
-}
-
-.news{
-    font-family: 'Roboto', sans-serif;
-    display:inline;
-    padding:50px;
-    font-size:25px;
-}
-
-.about{
-    font-family: 'Roboto', sans-serif;
-    display:inline;
-    padding:50px;
-    font-size:25px;
-}
-
-.contact{
-    font-family: 'Roboto', sans-serif;
-    display:inline;
-    padding:50px;
-    font-size:25px;
-}
-
-.home:hover{
-    color:white;
-    transition:0.25s;
-}
- 
- .news:hover{
-    color:white;
-    transition:0.25s;
- }
- 
- .about:hover{
-    color:white;
-    transition:0.25s;
- }
- 
- .contact:hover{
-    color:white;
-    transition:0.25s;
- }
-
- .newsbox1{
-     border: 5px solid black;
-     border-radius:20px;
-     margin-left: 28.1%;
-     -webkit-transition: all 1s ease; 
-     -moz-transition: all 1s ease; 
-     -o-transition: all 1s ease; 
-     -ms-transition: all 1s ease; 
-     transition: all 0.25s ease; 
- }
-
- .newsbox1:hover{
-     border-color:white;
-     transition:0.25s;
-}
-
-.newsbox2{
-    border: 5px solid black;
-    border-radius:20px;
-    margin-left:28%;
-    -webkit-transition: all 1s ease; 
-    -moz-transition: all 1s ease; 
-    -o-transition: all 1s ease; 
-    -ms-transition: all 1s ease; 
-    transition: all 0.25s ease; 
-}
-
-.newsbox2:hover{
-    border-color:white;
-    transition:0.25s;
-}
-
-.newsbox3{
-    display:inline;
-    border: 5px solid black;
-    border-radius:20px;
-    -webkit-transition: all 1s ease; 
-    -moz-transition: all 1s ease; 
-    -o-transition: all 1s ease; 
-    -ms-transition: all 1s ease; 
-    transition: all 0.25s ease; 
-}
-
-.newsbox3:hover{
-    border-color:white;
-    transition:0.25s;
-}
-
-.copyright{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size:500%;
 }
 
 
-  .ytlogo{
-    color:white;
-    margin-left:200px;
-    display:inline-block;
+
+
+.h1gay{
+    margin-top:20%;
+    padding-left:20%;
+    padding-bottom:40%;
+    background-color:#FF5851;
+    font-family: 'Montserrat', sans-serif;
 }
 
-.ytlogo:hover{
-    color:#c4302b;
-    transition:0.25s;
-}
-
-.gitlogo{
-    color:white;
-    margin-left:110px;
-}
-
-.gitlogo:hover{
-    color:#211F1F;
-    transition:0.25s;
-}
-
-.discordlogo{
-    color:white;
-    margin-left:120px;
-}
-
-.discordlogo:hover{
-    color:#738ADB;
-    transition:0.25s;
-}
-
-.pinlogo{
-    color:white;
-    margin-left:100px;
-}
-.pinlogo:hover{
-    color:#BD081C;
-    transition:0.25s;
-}
-
-.steamlogo{
-    color:white;
-    margin-left:110px;
-}
-
-.steamlogo:hover{
-    color:#2a475e;
-    margin-left:110px;
-    transition:0.25s;
-}
-
-a {
-    text-decoration:none;
-    color:black;
-}
-
-.link1 {
-    text-decoration: none;
-    margin-left:590px;
-    margin-top: 7px;
-    display: block;
-    font-size: 23px;
-    color:black;
-    background-color:white;
-    position:absolute;
-    padding-left:16px;
-    padding-right:16px;
-    padding-top:16px;
-    padding-bottom:16px;
-    border-radius:13px;
-}
-
-.header2 {
-    font-size:60px;
-    padding:25px;
-    color:white;
-    margin-top: 200px;
-    text-align:center;
-    font-family: 'Roboto', sans-serif;
-}
-
-.newsboxpage{
-    margin-top:6%;
-    border: 5px solid black;
-    border-radius:20px;
-    margin-left: 28.1%;
-    -webkit-transition: all 1s ease; 
-    -moz-transition: all 1s ease; 
-    -o-transition: all 1s ease; 
-    -ms-transition: all 1s ease; 
-    transition: all 0.25s ease; 
-}
-
-.newstext{
-    padding-top: 2px;
-    padding-bottom: 50px;
-    margin-left: 23%;
-    margin-right: 20%;
-    margin-top:10px;
-    background-color:white;
-    border: 10px solid white;
-    text-align:center;
-    font-family: 'Roboto', sans-serif;
-    border-radius:20px;
-}
-
-.newsbox1mini{
-    border: 5px solid black;
-    border-radius:20px;
-    margin-left: 39%;
-    -webkit-transition: all 1s ease; 
-    -moz-transition: all 1s ease; 
-    -o-transition: all 1s ease; 
-    -ms-transition: all 1s ease; 
-    transition: all 0.25s ease; 
-}
-
-.newsbox1mini:hover{
-    border-color:white;
-    transition:0.25s;
+@media screen and (max-height: 300px) {
+	.welcome, .welcome:after, .welcome:hover:after, .logo {
+		margin-top: 40px;
+	}
 }

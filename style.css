@@ -85,10 +85,55 @@ body {
     text-align:center;
 }
 
+.pepe3 {
+    color: #FF5851;
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+}
+
+.pepe4 {
+    color: #FF5851;
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+}
+
+.pepe5 {
+    color: #FF5851;
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+}
+
+.pepe6 {
+    color: #FF5851;
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+}
+
 .pepe-border{
     border: 10px solid #FF5851;
     border-radius: 3rem;
     margin-top:5%;
+    margin-left:25%;
+    margin-right:25%;
+    font-size:90%;
+}
+
+.print {
+    text-align:center;
+    margin-top:4%;
+    margin-left:45%;
+    background-color:#FF5851;
+    border:15px #FF5851;
+    font-size:350%;
+}
+
+.copy {
+    text-align:center;
+    margin-top:4%;
+    margin-left:45%;
+    background-color:#FF5851;
+    border:15px #FF5851;
+    font-size:350%;
 }
 @media screen and (max-height: 300px) {
 	.welcome, .welcome:after, .welcome:hover:after, .logo {

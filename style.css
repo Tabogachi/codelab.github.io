@@ -15,7 +15,7 @@ body {
 
 .welcome{
     color:#FF5851;
-    margin-left:31%;
+    text-align: center; /* << That centers the element on the page, and adapts to your screen size */
     margin-top:20%;
     font-family: 'Montserrat', sans-serif;
     font-size: 600%;
@@ -23,14 +23,14 @@ body {
 
 .dividk{
     padding:15%;
-    background-color:#FF5851;
+    background-color:#222222;
 }
 
 .header{
     top:250%;
-    margin-left:25%;
+    text-align: center; /* << That centers the element on the page, and adapts to your screen size */
     display:block;
-    color:black;
+    color:#FF5851;
     font-family: 'Montserrat', sans-serif;
     overflow:visible;
     position: relative;
@@ -45,6 +45,51 @@ body {
  
 }
 
+.start {
+    text-align:center;
+    margin-left:45%;
+    background-color:#FF5851;
+    border:15px #FF5851;
+    font-size:150%;
+}
+
+.start2 {
+    text-align:center;
+    margin-top:4%;
+    margin-left:45%;
+    background-color:#FF5851;
+    border:15px #FF5851;
+    font-size:150%;
+}
+
+.header2{
+    margin-top:16%;
+    text-align: center; 
+    display:block;
+    color:#FF5851;
+    font-family: 'Montserrat', sans-serif;
+    overflow:visible;
+    position: relative;
+    font-size:500%;
+}
+
+.pepe1 {
+    color: #FF5851;
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+}
+
+.pepe2 {
+    color: #FF5851;
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+}
+
+.pepe-border{
+    border: 10px solid #FF5851;
+    border-radius: 3rem;
+    margin-top:5%;
+}
 @media screen and (max-height: 300px) {
 	.welcome, .welcome:after, .welcome:hover:after, .logo {
 		margin-top: 40px;

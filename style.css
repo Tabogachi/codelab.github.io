@@ -47,10 +47,11 @@ body {
 
 .start {
     text-align:center;
-    margin-left:45%;
+    margin-left:43%;
     background-color:#FF5851;
-    border:15px #FF5851;
+    border:15px solid #FF5851;
     font-size:150%;
+    border-radius:15rem;
 }
 
 .start2 {
@@ -58,8 +59,9 @@ body {
     margin-top:4%;
     margin-left:45%;
     background-color:#FF5851;
-    border:15px #FF5851;
+    border:15px solid #FF5851;
     font-size:150%;
+    border-radius:15rem;
 }
 
 .header2{
@@ -110,12 +112,14 @@ body {
 }
 
 .pepe-border{
-    border: 10px solid #FF5851;
+    border: 10px solid #222222 ;
     border-radius: 3rem;
     margin-top:5%;
     margin-left:25%;
     margin-right:25%;
-    font-size:90%;
+    font-size:85%;
+    color:#222222;
+    background-color:#222222;
 }
 
 .print {
@@ -123,8 +127,9 @@ body {
     margin-top:4%;
     margin-left:45%;
     background-color:#FF5851;
-    border:15px #FF5851;
-    font-size:350%;
+    border:15px solid #FF5851;
+    font-size:340%;
+    border-radius:15rem;
 }
 
 .copy {

@@ -4,7 +4,7 @@ function firstPropmt() {
     var river = window.prompt("What is your river?");
     document.getElementById("pepe3").innerHTML = "Ko " + river + " Te Awa";
     var city = window.prompt("What is your city?");
-    document.getElementById("pepe4").innerHTML = "Nō " + city + " Ahu";
+    document.getElementById("pepe4").innerHTML = "Nō " + city + " Ahau";
     var family = window.prompt("Who is your family?");
     document.getElementById("pepe5").innerHTML = "Ko " + family + " Tōku Whānau";
     var name = window.prompt("What is your name?");

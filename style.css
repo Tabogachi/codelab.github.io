@@ -84,7 +84,7 @@ body {
     cursor: pointer;
 }
 
-.header2{
+.header3{
     margin-top:16%;
     text-align: center; 
     display:block;
@@ -163,10 +163,19 @@ body {
 
 .footer{
     margin:0;
-    padding:20px;
+    padding-left:1rem;
+    padding-right:1rem;
+    padding-top:1rem;
+    padding-bottom:0.5rem;
     background-color: #FF5851;
-    margin-top:2rem;
+    margin-top:3rem;
+
 }
+
+.copyright {
+    font-family: 'Montserrat', sans-serif;
+}
+
 
 @media screen and (max-height: 300px) {
 	.welcome, .welcome:after, .welcome:hover:after, .logo {
